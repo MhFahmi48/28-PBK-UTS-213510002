@@ -5,7 +5,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
   <header>
-    <img alt="Vue logo" class="logo" src="@/assets/a.png" width="125" height="125" />
+    <img alt="Vue logo" class="logo" src="@/assets/fahmi.png" width="125" height="125" />
 
     <div class="wrapper">
       <HelloWorld msg="Vue Router M.Husnol Fahmi" />
